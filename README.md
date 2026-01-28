@@ -12,13 +12,12 @@
 
 Обладаю так же опытом работы с облачными провайдерами (такими как YandexCloud, VKCloud, Selectel, SberCloud, AWS, GCP, AZURE) и различными Manadge сервисами, много заработал  AWS, ECS, AIM, RDS, Route53, управлял различными сетевыми конфигурациями и сетевыми политиками.
 
-Занимался Администрированием Linux, таких дистрибутивов как Centos, Fedora, Debian, Ubuntu, OpenSuse, RosaLinux, AltLinux, RedOS, AstraLinux, ArchLinux, собирал свои пакеты .deb .rpm .aur, настраивал сети, организовывал приватные частные сети с шифрованием трафика (OpenVPN+IPSEC),  настраивал веб сервера в связке nginx+php-fpm+mysql, писал свои SystemUnits, писал различного рода автоматизацию на Bash и Python.  
+Занимался Администрированием Linux, таких дистрибутивов как Centos, Fedora, Debian, Ubuntu, OpenSuse, RosaLinux, AltLinux, RedOS, AstraLinux, ArchLinux, собирал свои пакеты .deb .rpm .aur, настраивал сети, организовывал приватные частные сети с шифрованием трафика (OpenVPN+IPSEC),  настраивал веб сервера в связке nginx+php-fpm+mysql, писал свои SystemUnits, писал различного рода автоматизацию на Bash и Python.
 
 Увлекаюсь разработкой и в целом языками программирования, У меня есть знания в Frontend разработке на React, я владею HTML, CSS, SCSS, htmx, Tailwind, bootstrap.
 
-В части Backend разработки использую Python, у меня есть опыт работы с фрейморками Django, Flask и FastApi, знаю ООП и ORM.   Был опыт и с другими языками, я активно изучал Java, Golang, знаком с синтаксисом C и C++, пишу так же на JavaScript  и TypeScript, пробовал так же и Swift и разрабатывать под IOS.
+В части Backend разработки использую Python, у меня есть опыт работы с фрейморками Django, Flask и FastApi, знаю ООП и ORM. Был опыт и с другими языками, я активно изучал Java, Golang, знаком с синтаксисом C и C++, пишу так же на JavaScript  и TypeScript, пробовал так же и Swift и разрабатывать под IOS.
 
 Интересовался ML разработкой, знаком с фреймворками Pytorch, Tensorflow, Keras, имею некоторый опыт в настройке AirFlow и написании своих DAG пайплайнов(нотбуков).
 
-Располагаю опытом построения всей DevOps инфраструктуры с нуля, включая настройку кластеров Kubernetes, интеграцию Vault, Настройку и внедрение Jenkins + Jenkins Template Engine, KeyCloak, Nexus3 и репозитория Nuget, .Deb,  .Rpm, Raw, Gitlab-CI, sonarQube. Написание Helm чартов и помощь в написании Kubernetes операторов на Go. 
-
+Располагаю опытом построения всей DevOps инфраструктуры с нуля, включая настройку кластеров Kubernetes, интеграцию Vault, Настройку и внедрение Jenkins + Jenkins Template Engine, KeyCloak, Nexus3 и репозитория Nuget, .Deb,  .Rpm, Raw, Gitlab-CI, sonarQube.Написание Helm чартов и помощь в написании Kubernetes операторов на Go. 
