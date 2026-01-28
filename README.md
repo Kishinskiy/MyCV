@@ -10,7 +10,7 @@
 
 Настраивал кластер Kubernetes на BareMetal в HA-Mode на 5-8 нодах, выстраивал полностью весь процесс CI/CD в Kubernetes от сборки приложения, до деплоя через Helm, вся инфраструктура настраивалось мной лично с нуля.
 
-Обладаю так же опытом работы с облачными провайдерами (такими как YandexCloud, VKCloud, Selectel, SberCloud, AWS, GCP, AZURE) и различными Manadge сервисами, много заработал  AWS, ECS, AIM, RDS, Route53, управлял различными сетевыми конфигурациями и сетевыми политиками.
+Обладаю так же опытом работы с облачными провайдерами (такими как YandexCloud, VKCloud, Selectel, SberCloud, AWS, GCP, AZURE) и различными Manadge сервисами, много заработал  AWS,EC2 EKS, AIM, RDS, Route53, управлял различными сетевыми конфигурациями и сетевыми политиками.
 
 Занимался Администрированием Linux, таких дистрибутивов как Centos, Fedora, Debian, Ubuntu, OpenSuse, RosaLinux, AltLinux, RedOS, AstraLinux, ArchLinux, собирал свои пакеты .deb .rpm .aur, настраивал сети, организовывал приватные частные сети с шифрованием трафика (OpenVPN+IPSEC),  настраивал веб сервера в связке nginx+php-fpm+mysql, писал свои SystemUnits, писал различного рода автоматизацию на Bash и Python.
 
