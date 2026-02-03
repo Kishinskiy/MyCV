@@ -1,6 +1,7 @@
 
 
-## [![Скачать резюме](./Button.svg)](./DevOps.pdf)
+## [![Скачать резюме](https://raw.githubusercontent.com/Kishinskiy/MyCV/refs/heads/main/img/Button.svg)](https://raw.githubusercontent.com/Kishinskiy/MyCV/refs/heads/main/DevOps.pdf)
+
 
 Я в ИТ с 2003 года, начинал карьеру как дизайнер, разрабатывал 3D модели, но перешел в итоге системные администраторы где и строил свою карьеру до 2017 года. В 2017м году стал развиваться как Devops инженер. 
 
