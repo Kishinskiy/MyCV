@@ -1,6 +1,6 @@
 
 
-## [![Скачать резюме](./img/Button.png)](https://github.com/Kishinskiy/MyCV/releases/download/02/DevOps.pdf) [![Download](./img/ButtonENG.png)](https://github.com/Kishinskiy/MyCV/releases/download/02/DevOps.ENG.pdf)
+## [![Скачать резюме](./img/Button.png)](https://github.com/Kishinskiy/MyCV/releases/download/latest/DevOps.pdf) [![Download](./img/ButtonENG.png)](https://github.com/Kishinskiy/MyCV/releases/download/latest/DevOps.pdf)
 
 
 # Кишинский Олег Викторович
